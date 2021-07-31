@@ -1,5 +1,9 @@
 # 3DTicTacToeAI
 
+Created September 2020
+Uploaded July 30 2021
+
+
 This is a program in which I have created an AI player for 4x4x4 Tic Tac Toe.
 
 Note: My AI is within the 'Move' and 'Counts' files, with Move using Count to send the moves to the Client.
